@@ -1,0 +1,33 @@
+
+
+body{
+    background-image:url(./2.webp);
+    opacity: 17;
+}
+
+.intro-vert{
+    color:palevioletred;
+    border-left-color: black;
+    background-color: antiquewhite;
+}
+url-url{
+    background-color: grey;
+}
+.info{
+    color:palevioletred;
+}
+.klubi{
+    color:pink;
+}
+.klasa{
+    background-color: wheat;
+    color:pink;
+}
+.shkolla{
+    background-color: aliceblue;
+    color:pink;
+}
+.button:hover{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
